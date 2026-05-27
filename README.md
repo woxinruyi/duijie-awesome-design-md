@@ -45,9 +45,15 @@ It's just a markdown file. No Figma exports, no JSON schemas, no special tooling
 
 You can [request a DESIGN.md](https://getdesign.md/request) for specific website, including private requests delivered exclusively to you.
 
-## Sponsors ❤️
+## AI Design + Build Ecosystem Tools
 
-Become a Sponsor [1M+ view] — your logo here and get listed on [getdesign.md](https://getdesign.md/)
+Tools, platforms, and services for designing and shipping web apps with AI.
+
+<a href="https://github.com/VoltAgent/voltagent">
+  <img src="SPONSOR_LOGO_URL" alt="voltagent" height="80" />
+</a>
+
+[**Get listed here →**](https://sponsors.voltagent.dev/#awesome-design-md)
 
 ## Collection
 
